@@ -1,3 +1,6 @@
+# Secret
+.env
+
 # General
 .DS_Store
 .AppleDouble
